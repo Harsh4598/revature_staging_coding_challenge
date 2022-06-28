@@ -24,6 +24,8 @@ Explanation:
 Testcase #2 You are initially at (0, 0) Rightmost on-light is (2, 0). Distance = 2. Now you are at (2, 0). Left most on-light is (0, 0). Distance = 2. Now you are at (0, 0) Right most on-light is(1, 0). Distance = 1. Now you are at (1, 0) and all lights are turned off. Total distance walked = 5.
 
 =======================================================
+
+
 2) Your Name is Mine:
 
 In an attempt to control the rise in population, Archer was asked to come up with a plan. This time he is targeting marriages. Archer, being as intelligent as he is, came up with the following plan:
