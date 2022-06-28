@@ -1,0 +1,30 @@
+/Users/harshtamakuwala/Documents/Coding/Name/bin/Debug/net6.0/Name
+/Users/harshtamakuwala/Documents/Coding/Name/bin/Debug/net6.0/Name.deps.json
+/Users/harshtamakuwala/Documents/Coding/Name/bin/Debug/net6.0/Name.runtimeconfig.json
+/Users/harshtamakuwala/Documents/Coding/Name/bin/Debug/net6.0/Name.dll
+/Users/harshtamakuwala/Documents/Coding/Name/bin/Debug/net6.0/Name.pdb
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.csproj.AssemblyReference.cache
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.AssemblyInfoInputs.cache
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.AssemblyInfo.cs
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.csproj.CoreCompileInputs.cache
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.dll
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/refint/Name.dll
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.pdb
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/Name.genruntimeconfig.cache
+/Users/harshtamakuwala/Documents/Coding/Name/obj/Debug/net6.0/ref/Name.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/bin/Debug/net6.0/Name
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/bin/Debug/net6.0/Name.deps.json
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/bin/Debug/net6.0/Name.runtimeconfig.json
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/bin/Debug/net6.0/Name.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/bin/Debug/net6.0/Name.pdb
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.csproj.AssemblyReference.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.AssemblyInfoInputs.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.AssemblyInfo.cs
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.csproj.CoreCompileInputs.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/refint/Name.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.pdb
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/Name.genruntimeconfig.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/Name/obj/Debug/net6.0/ref/Name.dll

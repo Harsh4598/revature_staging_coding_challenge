@@ -1,0 +1,30 @@
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.deps.json
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.runtimeconfig.json
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.dll
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.pdb
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.csproj.AssemblyReference.cache
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.AssemblyInfoInputs.cache
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.AssemblyInfo.cs
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.csproj.CoreCompileInputs.cache
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.dll
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/refint/WalkontheAxis.dll
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.pdb
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.genruntimeconfig.cache
+/Users/harshtamakuwala/Documents/Coding/WalkontheAxis/obj/Debug/net6.0/ref/WalkontheAxis.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.deps.json
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.runtimeconfig.json
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/bin/Debug/net6.0/WalkontheAxis.pdb
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.csproj.AssemblyReference.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.AssemblyInfoInputs.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.AssemblyInfo.cs
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.csproj.CoreCompileInputs.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/refint/WalkontheAxis.dll
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.pdb
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/WalkontheAxis.genruntimeconfig.cache
+/Users/harshtamakuwala/Documents/Coding/Week 1 coding/WalkontheAxis/obj/Debug/net6.0/ref/WalkontheAxis.dll
